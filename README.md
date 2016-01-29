@@ -33,8 +33,8 @@ class MyComponent extends React.Component {
 }
 ```
 
-> _Enable this in Babel by using either `babel-preset-stage-2` or
-> `babel-plugin-transform-object-rest-spread`._
+> _If you are using Babel with the React preset, this should just work out of
+> without any additional setup._
 
 If you are not using the spread operator you can use:
 
