@@ -1,6 +1,9 @@
 # react-stylish
 
-> Make your React component style-able by all.
+Make your React component style-able by all.
+
+> ***[See the blog post](https://medium.com/@thejameskyle/the-react-styling-problem-68440beceddf#.ygvbwgcio)
+> about "The React Styling Problem" and how this helps solve it.***
 
 ## Guide
 
