@@ -1,0 +1,31 @@
+{
+  "name": "react-stylish",
+  "version": "0.0.0",
+  "description": "Make your React component style-able by all.",
+  "license": "MIT",
+  "repository": "thejameskyle/react-stylish",
+  "author": {
+    "name": "James Kyle",
+    "email": "me@thejameskyle.com",
+    "url": "twitter.com/thejameskyle"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "react",
+    "style",
+    "className",
+    "component",
+    "inline styles"
+  ],
+  "dependencies": {
+    "react": "^0.14.0"
+  },
+  "devDependencies": {
+    "ava": "^0.8.0"
+  }
+}
