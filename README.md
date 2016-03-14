@@ -34,7 +34,7 @@ class MyComponent extends React.Component {
 ```
 
 > _If you are using Babel with the React preset, this should just work out of
-> without any additional setup._
+> the box without any additional setup._
 
 If you are not using the spread operator you can use:
 
